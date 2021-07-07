@@ -3,7 +3,7 @@
 - 👀 I’m interested in User Experience Design, AI, Augmented Reality, Cybersecurity, IoT, EdTech Technology Literacy, BioTech Disability Accessiblity, and CleanTech Geothermal. 
 - 🌱 I’m currently learning CSS, Java, and Python.
 - 💞️ I’m looking to collaborate on UX Design and Technology Literacy.
-- 📫 How to reach me @astiphea on Twitter
+- 📫 How to reach me Asti Phea on LinkedIn
 - ✨ Fun Fact: I enjoy Salsa Dancing.
 
 <!---
