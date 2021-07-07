@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astiphea. 
 - 📚 I'm a graduate student studying Technical Communication and Digital Anthropology. 
-- 👀 I’m interested in User Experience Design, AI, Augmented Reality, Cybersecurity, IoT, EdTech Technology Literacy, CleanTech Geothermal. 
+- 👀 I’m interested in User Experience Design, AI, Augmented Reality, Cybersecurity, IoT, EdTech Technology Literacy, BioTech Disability Accessiblity, and CleanTech Geothermal. 
 - 🌱 I’m currently learning CSS, Java, and Python.
 - 💞️ I’m looking to collaborate on UX Design and Technology Literacy.
 - 📫 How to reach me @astiphea on Twitter
