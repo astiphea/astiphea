@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @astiphea. 
-- 📚 I'm a graduate student studying Technical Communication. 
+- 📚 I'm a Technical Communication graduate student. 
 - 👀 I’m interested in UX Research, User Experience Design, AI, Augmented Reality, Digital Anthropology, Cybersecurity, International Regulatory Compliance, IoT, Technology Literacy, BioTech Disability Accessibility, CleanTech Geothermal. 
 - 🌱 I’m currently learning CSS, Java, and Python.
 - 💞️ I’m looking to collaborate on UX Research and Technology Literacy + Accessibility.
