@@ -1,8 +1,9 @@
-- 👋🏽 Hi, I’m Asti Phea. 
-- 📚 I'm a Technical Communication graduate student. 
-- 👀 I’m interested in Data Science, UX Design, AI, Digital Anthropology, Cybersecurity, International Regulatory Compliance, IoT, BioTech Disability Accessibility, CleanTech Geothermal. 
+- 👋🏾 Hi, I’m Asti Phea. 
+- 👩🏾‍🎓 Graduate Student in Technical Communication
+- 📚 I’m interested in Data Science, UX Design, and AI. 
+- 📝 I enjoy researching Digital Media Anthropology related to Intercultural Communication Pedagogy, International Regulatory Compliance, Cybersecurity IoT, BioTech Disability Accessibility, and CleanTech Geothermal. 
 - 🌱 I’m currently learning SQL, CSS, Java, and Python.
-- 💞️ I’m looking to collaborate on Data Analytics and UX Research.
+- 💼 I’m looking to collaborate on Data Analytics and UX Research.
 - 📫 How to reach me: Asti Phea on LinkedIn
 - ✨ Fun Fact: I enjoy Salsa Dancing, boba, and swimming in warm oceans.
 
