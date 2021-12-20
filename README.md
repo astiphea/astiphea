@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astiphea. 
+- 👋🏽 Hi, I’m Asti Phea. 
 - 📚 I'm a Technical Communication graduate student. 
 - 👀 I’m interested in Data Science, UX Design, AI, Digital Anthropology, Cybersecurity, International Regulatory Compliance, IoT, BioTech Disability Accessibility, CleanTech Geothermal. 
 - 🌱 I’m currently learning SQL, CSS, Java, and Python.
