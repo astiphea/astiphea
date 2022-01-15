@@ -2,9 +2,9 @@
 - 👩🏾‍🎓 Graduate Student in Technical Communication
 - 📚 I’m interested in Data Science, UX Design, and AI. 
 - 📝 I enjoy researching Digital Media Anthropology related to Intercultural Communication Pedagogy, International Regulatory Compliance, Cybersecurity, IoT, BioTech Disability Accessibility, and CleanTech Geothermal. 
-- 🌱 I’m currently learning SQL, CSS, Java, and Python.
+- 🌱 I’m currently learning SQL, CSS, and JavaScript.
 - 💼 I’m looking to collaborate on Data Analytics and UX Research.
-- 📫 How to reach me: Asti Phea on LinkedIn
+- 📫 How to reach me: AstiTheTechie on Twitter
 - ✨ Fun Fact: I enjoy Salsa Dancing, boba, and swimming in warm oceans.
 
 <!---
