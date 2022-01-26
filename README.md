@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m Asti Phea. 
 - 👩🏾‍🎓 Graduate Student in Technical Communication
-- 📚 I’m interested in Data Science, UX Design, and AI. 
+- 📚 I’m interested in Research. Data Science, UX Design, and AI. 
 - 📝 I enjoy researching Digital Media Anthropology related to Intercultural Communication Pedagogy, International Regulatory Compliance, Cybersecurity, IoT, BioTech Disability Accessibility, and CleanTech Geothermal. 
 - 🌱 I’m currently learning SQL, CSS, and JavaScript.
 - 💼 I’m looking to collaborate on Data Analytics and UX Research.
